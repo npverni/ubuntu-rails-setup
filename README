@@ -1,1 +1,12 @@
 This script will install ruby, rails, mysql, nginx, and mongrel on ubuntu (or debian - probably)
+
+Thanks to smarticus for a lot of this, I diverge and install nginx instead of apache/passenger.
+See also: http://s3.amazonaws.com/smarticast/smarticus-railsrumble2008.mov
+
+HOW TO USE IT
+1) Create a user with sudo acccess
+2) Login as that user
+3) copy this script to the server
+4) sudo sh rails-ubuntu-setup.sh
+
+
